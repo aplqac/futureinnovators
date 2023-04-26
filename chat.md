@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# ChatGPT
-
-
 # What is ChatGPT? 
 
 ChatGPT is like a super smart computer program that can talk to people and answer their questions. It works by using a type of artificial intelligence called "natural language processing," which allows it to understand and respond to human language just like a person would.
@@ -25,6 +22,7 @@ Once it understands what you're saying, ChatGPT uses a huge neural network to ge
 During its training, the neural network learned how different words and phrases relate to each other and how they are used in different contexts. So when you ask ChatGPT a question or give it a command, it uses that knowledge to generate a response that makes sense in the context of your conversation.
 
 
+# Play 
 
 Play around with the following AI tools!
 
