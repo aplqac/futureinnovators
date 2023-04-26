@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Click here to make a story with AI!](/girlpower/ai.html)
+[Click here to learn more about AI!](/girlpower/ai.html)
 
 # Welcome To QAC
 
