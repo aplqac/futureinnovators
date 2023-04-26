@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Dall-E 2
-
 # What is Dall-E 2? 
 
 DALL-E 2 is a really cool computer program that can create pictures of things that don't exist in the real world.
@@ -26,6 +24,7 @@ Once the neural network has been trained, it can generate new images based on te
 To make this happen, DALL-E 2 uses a lot of computing power and sophisticated algorithms that analyze and manipulate the images and text descriptions in real-time.
 
 
+# Play 
 
 Play around with the following AI tools!
 
